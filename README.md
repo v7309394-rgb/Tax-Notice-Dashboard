@@ -7,7 +7,7 @@ A free desktop tool for tax professionals to manage income tax notices and get p
 <p align="center">
   <strong>A free, simple, and private desktop tool for tax professionals to manage notice deadlines and get pop-up reminders.</strong>
   <br>
-  <em>Built by GP Associates.</em>
+  <em>Built by Vignesh M.</em>
 </p>
 
 ---
