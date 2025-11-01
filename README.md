@@ -12,7 +12,7 @@ A free desktop tool for tax professionals to manage income tax notices and get p
 
 ---
 
-![Dashboard Screenshot](SCREENSHOT.png)
+
 
 ## 💡 What It Does
 
