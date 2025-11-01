@@ -52,7 +52,7 @@ The easiest way to get the app is to download the installer.
 This software is 100% free. If it helps you save time and manage your work, please consider supporting its development!
 
 * **[Sponsor me on GitHub](https://github.com/sponsors/v7309394-rgb)**
-* **[Buy Me a Coffee](https://www.buymeacoffee.com/YOUR-USERNAME)** *(You will still need to create this account and replace the "YOUR-USERNAME" part)*
+
 
 ## 📜 License
 
